@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>example.jpg</file>
+        <file alias="fon">images/fon.png</file>
+        <file alias="cards">images/Cards.png</file>
+        <file alias="glow">images/cardGlow.png</file>
+        <file alias="shadow">images/cardShadow.png</file>
+        <file alias="empty">images/cardEmpty.png</file>
+        <file alias="glow_blue">images/cardGlowBlue.png</file>
+    </qresource>
+</RCC>
